@@ -4,7 +4,7 @@ You found my new DJ website. From here, I make dope mixes, with dope drops, with
 
 ## 🌐 Live Preview
 
-The former version, at: https://dj-experience.com, is now located at its new location: https://djx.vegas/ .
+The former version, at: https://dj-experience.com , is now located at its new location: https://djx.vegas/ .
 
 ## 📁 Contents
 
