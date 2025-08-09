@@ -1,10 +1,10 @@
-# DJX Vegas
+# DJ-experience
 
 You found my new DJ website. From here, I make dope mixes, with dope drops, without any fanfare. Just find them, play them, reach out to me directly in the chat bot icon floating at the bottom right-hand side of any screen you use to view it. This page explains the site, click the link below, to https://djx.vegas/ to see the site. Chat anytime 24 / 7, the bot will leave a message for me anytime and I'll read it the next time I check messages. It saves them so don't worry about me missing it! I won't!
 
 ## 🌐 Live Preview
 
-See the current version at: https://djx.vegas
+The former version, at: https://dj-experience.com, is now located at its new location: https://djx.vegas/ .
 
 ## 📁 Contents
 
