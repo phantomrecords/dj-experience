@@ -8,7 +8,8 @@ The former version, at: https://dj-experience.com , is now located at its new lo
 
 ## 📁 Contents
 
-- `https://dj-experience.com/` — Previous Homepage
+- `Legal Notice` — 1.
+- `License` — 2.
 
 ## 🚨 Legal Notice
 
